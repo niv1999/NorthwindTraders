@@ -1,0 +1,8 @@
+.ContactUs > form {
+	width: 400px;
+}
+
+.ContactUs .textBox {
+    width: 100%;
+    margin-bottom: 20px;
+}
